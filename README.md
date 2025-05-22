@@ -10,3 +10,5 @@ Design a feature to track calories and nutrients.
 Design a feature that allows users to share their recipes and meals with others.
 Case Study Link:
 https://drive.google.com/file/d/1DrNmEf8WttXPVp4wGxMXFktI3ZerkEWo/view?usp=drive_link
+Figma link:
+https://www.figma.com/design/FmxmjQa2yVnOq7HaVhnn4c/Diabetes-Meal-Planner-App?node-id=0-1&t=ZHHdxQ9LkLSLTAfT-1
